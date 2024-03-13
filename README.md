@@ -1,4 +1,4 @@
-![🐳](https://capsule-render.vercel.app/api?type=venom&height=200&text=Who%20am%20I%20🐳&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=WHO%20AM%20I%20?!&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### Tech Blog
 
@@ -67,5 +67,4 @@
 
 #
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KoYesung&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoYesung&layout=compact&theme=tokyonight)
+![🐳](https://capsule-render.vercel.app/api?type=venom&height=200&text=See%20you%20again%20🐳&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
