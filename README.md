@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=WHO%20AM%20I%20?&fontAlign=80&fontAlignY=40&color=gradient)
 
-## 기능 소개
+## 자기 소개
 
 - [x] 성장하는 개발자 전예림입니다! ✨
 - [x] 고객을 대면하는 항공 서비스에서 서비스 관리자로! 🚀
