@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=WHO%20AM%20I%20?!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=WHO%20AM%20I%20?&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### Tech Blog
 
