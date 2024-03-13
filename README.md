@@ -15,14 +15,6 @@
   </a>
 </p>
 
-### Portfolio
-
-<p>
-  <a href="https://button-manchego-538.notion.site/4f45779e56f64e80a3fcd8b89559bb56" target="_blank">
-    <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black"/>
-  </a>
-</p>
-
 
 # 🔥 Skills
 
