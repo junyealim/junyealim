@@ -31,7 +31,6 @@
 ### AI
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=white"/>&nbsp;&nbsp;
